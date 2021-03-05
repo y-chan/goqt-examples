@@ -1,4 +1,4 @@
-module github.com/therecipe/examples
+module github.com/y-chan/goqt-examples
 
 go 1.16
 
